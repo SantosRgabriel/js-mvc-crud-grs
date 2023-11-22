@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "Gabriel",
+    "idade": "22",
+    "login": "teste",
+    "senha": "1234"
+  },
+  {
+    "nome": "Maria",
+    "idade": "24",
+    "login": "teste1",
+    "senha": "12342"
+  },
+  {
+    "nome": "Mario",
+    "idade": "26",
+    "login": "teste2",
+    "senha": "12345"
+  },
+  {
+    "nome": "Jose",
+    "idade": "21",
+    "login": "teste3",
+    "senha": "12346"
+  },
+  {
+    "nome": "Isaac",
+    "idade": "22",
+    "login": "teste4",
+    "senha": "12341"
+  },
+  {
+    "nome": "po",
+    "idade": "654",
+    "login": "ml,m",
+    "senha": ",m,m"
+  }
+]
