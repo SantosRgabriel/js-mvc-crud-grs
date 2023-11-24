@@ -1,5 +1,5 @@
-const formNewUser = {
-  build: () => {
+const formComponent = {
+  render: () => {
     const root = document.getElementById("root");
     const formTemplate = document.createElement("form");
     formTemplate.className = "form-control";
@@ -29,4 +29,4 @@ const formNewUser = {
   },
 };
 
-export { formNewUser };
+export { formComponent};
